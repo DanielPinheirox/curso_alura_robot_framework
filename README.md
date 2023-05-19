@@ -1,6 +1,6 @@
 # Curso Alura Robot Framework 🤖
 
-<h3>Roteiro do curso </h3>🧑‍💻
+<h3>Roteiro do curso 🧑‍💻 </h3>
 
 <strong>Construção de testes de caminho feliz: </strong>
 - Identificação dos passos do fluxo principal da aplicação.
