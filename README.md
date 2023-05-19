@@ -1,11 +1,28 @@
 # Curso Alura Robot Framework 🤖
 
-Neste curso, foi abordado as principais funcionalidades e práticas do Robot Framework para a construção de testes automatizados eficientes. Começamos explicando como criar testes de caminho feliz, que representam o fluxo principal da aplicação. Utilizamos as keywords do Robot Framework para descrever cada passo do fluxo e asserções para verificar se os resultados estão corretos.
+<h3>Roteiro do curso </h3>🧑‍💻
 
-Em seguida, discutimos os testes de comunicação com o usuário, onde simulamos a interação entre o sistema e o usuário. Utilizamos variáveis para representar os dados inseridos pelo usuário e keywords para simular essa interação. As asserções foram utilizadas para verificar se as respostas da aplicação estão de acordo com o esperado.
+<strong>Construção de testes de caminho feliz: </strong>
+- Identificação dos passos do fluxo principal da aplicação.
+- Utilização de keywords específicas do Robot Framework.
+- Verificação dos resultados com asserções.
 
-Abordamos também a importância de configurar corretamente o início e o fim dos testes, bem como a aplicação de boas práticas de nomenclatura. Utilizamos as keywords "Setup" e "Teardown" para definir ações de preparação e finalização dos testes, e adotamos uma nomenclatura clara e descritiva para facilitar a manutenção e compreensão dos testes. Também organizamos os testes em suítes lógicas e utilizamos comentários para fornecer informações adicionais.
+<strong>Testes de comunicação com o usuário: </strong>
+- Uso de variáveis para representar dados inseridos pelo usuário.
+- Simulação da interação usuário-aplicação com keywords.
+- Verificação das respostas da aplicação usando asserções.
 
-Por fim, exploramos o uso de estruturas de repetição e bibliotecas de massa de dados para tornar os testes mais dinâmicos e eficientes. Utilizamos a estrutura de repetição "FOR" para executar testes em loops e uma biblioteca de massa de dados para gerar dados de teste em massa.
+<strong>Configuração de início e fim dos testes e boas práticas de nomenclatura: </strong>
+- Uso das keywords "Setup" e "Teardown" para a preparação e finalização dos testes.
+- Adoção de uma nomenclatura clara e descritiva para facilitar a manutenção.
+- Organização dos testes em suítes lógicas e uso de comentários informativos.
 
-Com o Robot Framework, podemos construir testes automatizados robustos e de alta qualidade, aumentando a eficiência e a confiabilidade dos processos de testes em nossos projetos.
+<strong>Utilização de estruturas de repetição e biblioteca de massa de dados: </strong>
+- Utilização da estrutura de repetição "FOR" para testes em loops.
+- Utilização de bibliotecas de massa de dados para gerar dados de teste em grande quantidade.
+- Aumento da eficiência e dinamicidade dos testes.
+
+<strong>Organização de projetos utilizando Page Object Model: </strong>
+- Utilização do Page Object Model para estruturar os testes.
+- Separação clara entre as ações da aplicação e a lógica dos testes.
+- Facilitação da manutenção e escalabilidade dos testes.
